@@ -1,0 +1,8 @@
+adapters:
+  - adapter_id: "TYUT_01"
+    adapter_name: "太原理工大学教务"
+    category: "BACHELOR_AND_ASSOCIATE"
+    asset_js_path: "tyut_01.js"
+    import_url: "http://192.168.200.100/Home/Default"
+    maintainer: "P-Coke"
+    description: "适配太原理工大学教学管理服务平台课表导入"

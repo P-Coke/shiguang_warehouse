@@ -268,6 +268,11 @@ schools:
     initial: "T"
     resource_folder: "TCU"
 
+  - id: "TYUT"
+    name: "太原理工大学"
+    initial: "T"
+    resource_folder: "TYUT"
+
   - id: "SCUT"
     name: "华南理工大学"
     initial: "H"
